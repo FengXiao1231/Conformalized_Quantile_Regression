@@ -5,7 +5,7 @@ Welcome to the repository for the Lending Club Loan Dataset analysis. This proje
 ## Getting Started
 
 ### Final Code
-You can directly view and run the final code by accessing the [Final Code](./FinalCode) directory in this repository. This directory contains all the necessary scripts and files to reproduce the analysis results.
+You can directly view and run the final code by accessing the [Final Code](./Final Code.ipynb) directory in this repository. This directory contains all the necessary scripts and files to reproduce the analysis results.
 
 ### Dataset
 Due to GitHub's file size limitations, the Lending Club Loan Dataset is not included in this repository. However, you can easily obtain the dataset by searching for **"Lending Club Loan Dataset"** on [Kaggle](https://www.kaggle.com/). Once downloaded, place the dataset in the appropriate directory specified in the code.
