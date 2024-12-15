@@ -10,7 +10,7 @@ The final implementation of the CQR methodology, along with the scripts for repr
 ### Dataset
 To comply with repository storage limitations, the datasets used in this project are not included. However, you can download them from the following sources:
 - **[UCI Real Estate Valuation Dataset](https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set)**
-- **Lending Club Loan Dataset** (available on platforms like Kaggle)
+- **Lending Club Loan Dataset** (available on platform Kaggle)
 
 Place the downloaded datasets in the directories specified in the code.
 
