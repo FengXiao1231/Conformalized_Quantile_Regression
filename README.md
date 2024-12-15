@@ -1,23 +1,48 @@
-# UCI and Lending Club Loan Dataset Analysis
+# Conformalized Quantile Regression for Adaptive Prediction Intervals
 
-Welcome to the repository for the UCI and Lending Club Loan Dataset analysis. This project involves analyzing loan data to uncover patterns and build predictive models. The final code for this analysis is available in this repository.
+Welcome to the repository for **Conformalized Quantile Regression (CQR) for Adaptive Prediction Intervals**. This project investigates the application of CQR to construct adaptive prediction intervals with valid coverage guarantees, particularly in heteroscedastic data scenarios in high-risk domains like finance and real estate. The analysis leverages datasets such as the UCI Real Estate Valuation Dataset and the Lending Club Loan Dataset.
 
 ## Getting Started
 
 ### Final Code
-You can directly view and run the final code by accessing the [Final Code](./Final%20Code.ipynb) directory in this repository. This directory contains all the necessary scripts and files to reproduce the analysis results.
+The final implementation of the CQR methodology, along with the scripts for reproducing the analysis, is available in the **`FinalCode/`** directory.
 
 ### Dataset
-Due to GitHub's file size limitations, the Lending Club Loan Dataset is not included in this repository. However, you can easily obtain the dataset by searching for **"Lending Club Loan Dataset"** on [Kaggle](https://www.kaggle.com/). Once downloaded, place the dataset in the appropriate directory specified in the code.
+To comply with repository storage limitations, the datasets used in this project are not included. However, you can download them from the following sources:
+- **[UCI Real Estate Valuation Dataset](https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set)**
+- **Lending Club Loan Dataset** (available on platforms like Kaggle)
+
+Place the downloaded datasets in the directories specified in the code.
+
+---
 
 ## Repository Structure
-- **FinalCode/**: Contains the final version of the code for analysis.
-- **README.md**: This file.
+- **`FinalCode/`**: Contains the finalized Python scripts for CQR implementation and analysis.
+- **`README.md`**: Project overview and setup instructions.
+- **`docs/`**: Additional documentation and analysis details.
+
+---
 
 ## Instructions
-1. Download the dataset from Kaggle.
-2. Place the dataset in the specified directory in the project.
-3. Run the scripts in the `FinalCode` directory to perform the analysis.
+1. Download the datasets from the sources listed above.
+2. Preprocess the datasets as specified in the **Methodology** section of the documentation.
+3. Run the scripts in the **`FinalCode/`** directory to perform the analysis and generate prediction intervals.
+
+---
+
+## Highlights
+This project provides:
+- An implementation of CQR for constructing prediction intervals.
+- Comparative analysis of CQR against traditional quantile regression and conformal prediction methods.
+- Insights into the performance of CQR in terms of coverage rates and interval efficiency across datasets.
+
+---
 
 ## Acknowledgments
-The dataset used in this project is sourced from Lending Club and made available on Kaggle.
+The datasets used in this project were sourced from:
+- **Lending Club**: Available on Kaggle.
+- **UCI Machine Learning Repository**: Real Estate Valuation Dataset.
+
+Special thanks to the creators and maintainers of these datasets for making them publicly available for research purposes.
+
+---
