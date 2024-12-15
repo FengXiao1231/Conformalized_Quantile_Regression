@@ -1,6 +1,6 @@
-# Lending Club Loan Dataset Analysis
+# UCI and Lending Club Loan Dataset Analysis
 
-Welcome to the repository for the Lending Club Loan Dataset analysis. This project involves analyzing loan data to uncover patterns and build predictive models. The final code for this analysis is available in this repository.
+Welcome to the repository for the UCI and Lending Club Loan Dataset analysis. This project involves analyzing loan data to uncover patterns and build predictive models. The final code for this analysis is available in this repository.
 
 ## Getting Started
 
