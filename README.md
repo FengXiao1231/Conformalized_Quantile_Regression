@@ -19,7 +19,6 @@ Place the downloaded datasets in the directories specified in the code.
 ## Repository Structure
 - **`FinalCode/`**: Contains the finalized Python scripts for CQR implementation and analysis.
 - **`README.md`**: Project overview and setup instructions.
-- **`docs/`**: Additional documentation and analysis details.
 
 ---
 
